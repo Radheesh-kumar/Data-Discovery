@@ -1,0 +1,5 @@
+
+{
+  "name": "DevPulse AI Sourcing",
+  "description": "An AI-driven talent discovery system that uses specialized agents to parse hiring requests, search public developer footprints (GitHub, Stack Overflow), and rank candidates based on evidence of skill."
+}
